@@ -1,0 +1,28 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+pyenv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Datasets & large zips
+*.zip
+*.tar.gz
+Flickr8k_Dataset/
+Flicker8k_Dataset/
+Flickr8k.token.txt
+Flickr_8k.trainImages.txt
+Flickr_8k.testImages.txt
+Flickr_8k.devImages.txt
+
+# OS / IDE artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
