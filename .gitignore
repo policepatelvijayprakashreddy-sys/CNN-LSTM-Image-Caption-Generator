@@ -21,6 +21,9 @@ Flickr_8k.trainImages.txt
 Flickr_8k.testImages.txt
 Flickr_8k.devImages.txt
 
+# Documents
+*.pdf
+
 # OS / IDE artifacts
 .DS_Store
 Thumbs.db
